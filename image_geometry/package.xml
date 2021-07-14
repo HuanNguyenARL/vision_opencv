@@ -1,8 +1,8 @@
 <package format="2">
-  <name>image_geometry</name>
+  <name>image_geometry_customized</name>
   <version>1.15.0</version>
   <description>
-    `image_geometry` contains C++ and Python libraries for interpreting images
+    `image_geometry_customized` contains C++ and Python libraries for interpreting images
     geometrically. It interfaces the calibration parameters in sensor_msgs/CameraInfo
     messages with OpenCV functions such as image rectification, much as cv_bridge
     interfaces ROS sensor_msgs/Image with OpenCV data types.
